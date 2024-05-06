@@ -4,7 +4,7 @@
 
 程式架構流程圖:
 
-![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/6ad07633-2e9e-4ef7-abb2-5eed4e9b576e)
+![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/86acc19d-f1a9-4cab-b5e2-09926dd5cf3c)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
