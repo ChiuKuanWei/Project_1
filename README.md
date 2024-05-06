@@ -4,14 +4,7 @@
 
 程式架構流程圖:
 
-[連線處理]
-
-![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/f934a630-9e5f-4d51-86c5-62759acad2db)
-
-[斷線處理]
-
-![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/db623374-80be-4a5d-ad34-05efce87aeb8)
-
+![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/6ad07633-2e9e-4ef7-abb2-5eed4e9b576e)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
