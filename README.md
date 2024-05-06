@@ -4,7 +4,9 @@
 
 程式架構流程圖:
 
-![image](https://github.com/ChiuKuanWei/Product_Yield_Detection_System/assets/106484972/35a90921-5be1-4bd3-95ac-b3178d7501ab)
+連線處理:
+![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/f934a630-9e5f-4d51-86c5-62759acad2db)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
