@@ -10,7 +10,8 @@
 
 [斷線處理]
 
-![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/50b888a7-dc9a-4479-a379-947ff1d0eac5)
+![image](https://github.com/ChiuKuanWei/Project_1/assets/106484972/db623374-80be-4a5d-ad34-05efce87aeb8)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
